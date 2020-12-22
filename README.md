@@ -1,7 +1,8 @@
 ### Hi! I am Elliot Chen 👋
 
-😄 I am a postgraduate student in the Department of Cyber Security of USTC. I am interested in cyber security and quantum network.
+:smiley: I am a postgraduate student in the Department of Cyber Security of USTC. I am interested in cyber security and quantum network. :fist:
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=ertuil&show_icons=true&line_height=25&hide_title=true)
+- :globe_with_meridians: Welcome to visit my [blog](https://www.elliot98.top)
+- :email: or contact me with [mail](mailto:me@elliot98.top)
 
-![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ertuil&layout=compact)
+![github-stats](https://github-readme-stats.vercel.app/api?username=ertuil&show_icons=true&line_height=25)
