@@ -4,4 +4,4 @@
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=ertuil&show_icons=true&line_height=25&hide_title=true)
 
-![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ertuil)
+![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ertuil&layout=compact)
