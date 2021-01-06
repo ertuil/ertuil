@@ -6,4 +6,3 @@
 
 - :globe_with_meridians: Welcome to [https://www.elliot98.top](https://www.elliot98.top)
 - :email: Or contact me with [email](mailto:me@elliot98.top)
-- :watermelon: Enjoy my life
