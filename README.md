@@ -2,7 +2,7 @@
 
 ### Hi! I am Elliot Chen
 
-:smiley: I am a postgraduate student in the Department of Cyber Security of USTC. I am interested in cyber security and quantum network. :fist:
+:smiley: I am a Ph.D. student in the School of Cyber Science and Technology, USTC, China. I am interested in cyber security and quantum networks. :fist:
 
 - :globe_with_meridians: Welcome to [https://www.elliot98.top](https://www.elliot98.top)
 - :blue_book: Or my notes [Notion](https://elliot-98.notion.site/Home-5272e67c00bf4b3c8fa92908037c3693)
